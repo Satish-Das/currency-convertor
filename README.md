@@ -20,6 +20,5 @@ To run the project locally, follow these steps:
    ```Termainal
    npm install
 
-```
 ** Screenshots **
 <img src="./public/screenshot/img1.png">
